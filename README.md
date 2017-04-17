@@ -1,1 +1,1 @@
-# QtSQLite
+This is a README file.
